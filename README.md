@@ -6,7 +6,7 @@
 <img height="180em" width="100%" src="https://i.imgur.com/kH4KxMt.jpg">
 </div>
 
-<br>
+##
 
 <div align="center">
 <a href="https://github.com/snowybelmont">
@@ -21,7 +21,7 @@
   <img align="right" alt="fotinha" height="70" style="border-radius:25px;" src="https://i.imgur.com/uwxwG7G.png">
 </div>
 
-<br>
+##
 
 <div>
   <a href="https://www.studiobelmont.criarsite.online" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
