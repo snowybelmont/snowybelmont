@@ -1,10 +1,6 @@
-### Eae, Meu Nome é Adson Luis, e eu sou Programador, Designer e Profissional de T.I
+### O puro drip e hype esta aqui
 
 <br>
-
-<div>
-<img height="180em" width="100%" src="https://i.imgur.com/kH4KxMt.jpg">
-</div>
 
 ##
 
