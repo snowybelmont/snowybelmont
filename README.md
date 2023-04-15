@@ -1,7 +1,5 @@
 ### O puro drip e hype esta aqui
 
-<br>
-
 ##
 
 <div align="center">
